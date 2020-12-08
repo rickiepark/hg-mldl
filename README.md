@@ -1,10 +1,10 @@
 # <혼자 공부하는 머신러닝+딥러닝>의 주피터 노트북
 
-이 저장소는 한빛미디어에서 출간한 책인 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)의 코드를 담은 주피터 노트북으로 제공합니다.
+이 저장소는 한빛미디어에서 출간한 책인 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)의 코드를 주피터 노트북으로 제공합니다.
 
 ![cover.png](cover.png)
 
-이 책의 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), 제 [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
+이 책을 위해 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), 제 [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
 
 주피터 노트북 뷰어나 코랩에서 노트북을 열려면 다음 링크를 사용하세요.
 
@@ -31,3 +31,5 @@
 * 9-3 LSTM과 GRU 셀 [[nbviewer](https://nbviewer.jupyter.org/github/rickiepark/hg-mldl/blob/master/9-3.ipynb)], [[Colab](https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/9-3.ipynb)]
 
 온라인 서점에서 예약 판매중입니다! [Yes24](http://www.yes24.com/Product/Goods/96024871), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257932080)
+
+감사합니다! :)
