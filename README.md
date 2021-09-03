@@ -30,6 +30,6 @@
 * 9-2 순환 신경망으로 IMDB 리뷰 분류하기 [[nbviewer](https://nbviewer.jupyter.org/github/rickiepark/hg-mldl/blob/master/9-2.ipynb)], [[Colab](https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/9-2.ipynb)]
 * 9-3 LSTM과 GRU 셀 [[nbviewer](https://nbviewer.jupyter.org/github/rickiepark/hg-mldl/blob/master/9-3.ipynb)], [[Colab](https://colab.research.google.com/github/rickiepark/hg-mldl/blob/master/9-3.ipynb)]
 
-온라인 서점에서 예약 판매중입니다! [Yes24](http://www.yes24.com/Product/Goods/96024871), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257932080)
+온라인/오프라인 서점에서 판매중입니다! [Yes24](http://www.yes24.com/Product/Goods/96024871), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257932080)
 
 감사합니다! :)
